@@ -2,6 +2,8 @@
 
 啦啦啦,你好呀。
 
+🌱 I’m currently learning ...
+
 <!--
 **sunmaolin/sunmaolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
